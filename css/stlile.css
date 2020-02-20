@@ -3,12 +3,12 @@ nav {
 }
 
 p {
-    background-color: black;
     font-family: sans-serif;
     color: blueviolet;
 }
 
 h1 {
+    cursor: url(/imagenes/Kanna.ani) auto;
     background-color: lawngreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: blueviolet;
