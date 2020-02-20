@@ -1,0 +1,157 @@
+nav {
+    background-color: black;
+}
+
+p {
+    background-color: black;
+    font-family: sans-serif;
+    color: blueviolet;
+}
+
+h1 {
+    background-color: lawngreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+
+br {
+    background-color: black;
+}
+
+h2 {
+    background-color: lawngreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+
+header {
+    background-color: black;
+}
+
+body {
+    margin: auto;
+    background-color: black;
+}
+
+.p_size {
+    font-size: 20px;
+    color: aqua;
+}
+
+.m_30 {
+    margin: 30px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.navbar {
+    display: flex;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+nav ul li {
+    margin-left: 20px;
+    list-style: none;
+}
+
+
+/* Start http://www.cursors-4u.com */
+
+* {
+    cursor: url(http://cur.cursors-4u.net/anime/ani-12/ani1113.ani), url(http://cur.cursors-4u.net/anime/ani-12/ani1113.png), auto !important;
+}
+
+
+/* End http://www.cursors-4u.com */
+
+nav ul li a {
+    cursor: url(http://cur.cursors-4u.net/anime/ani-11/ani1035.ani), url(http://cur.cursors-4u.net/anime/ani-11/ani1035.png), auto !important;
+}
+
+nav ul li a:hover {
+    color: chartreuse;
+}
+
+.odin {
+    display: flex;
+    align-items: center;
+    border: red 3px solid;
+    height: 600px;
+}
+
+.container {
+    display: flex;
+    border: white 3px solid;
+    height: 300px;
+}
+
+.caja {
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin: 15px;
+}
+
+.c1 {
+    background-color: deeppink;
+    order: 1;
+}
+
+.c2 {
+    background-color: aqua;
+}
+
+.c3 {
+    background-color: firebrick;
+}
+
+.c4 {
+    order: 4;
+    order: inherit;
+    background-color: rgb(46, 46, 112);
+}
+
+.c5 {
+    align-self: center;
+    background-color: yellowgreen;
+}
+
+.c6 {
+    background-color: skyblue;
+}
+
+.c7 {
+    background-color: chartreuse;
+}
+
+.c8 {
+    background-color: seagreen;
+}
+
+.c9 {
+    background-color: darkgreen;
+}
+
+.c10 {
+    background-color: palevioletred;
+}
+
+@media only screen and (max-width: 600px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+.diomedes {
+    display: flex;
+    align-items: baseline;
+}
