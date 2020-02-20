@@ -51,6 +51,7 @@
     }
     
     img {
+        cursor: url(http://cur.cursors-4u.net/anime/ani-10/ani937.ani), url(http://cur.cursors-4u.net/anime/ani-10/ani937.png), auto !important;
         width: 200px;
         height: 200px;
         margin-left: 20px;
@@ -150,4 +151,10 @@
     .diomedes {
         display: flex;
         align-items: baseline;
+    }
+    
+    .hijo3 {
+        display: flex;
+        height: 300px;
+        background-image: url(/imagenes/43-433968_uchiha-itachi-uchiha-wallpaper-iphone.jpg);
     }
