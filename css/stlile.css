@@ -3,12 +3,12 @@
     }
     
     p {
+        cursor: url(http://cur.cursors-4u.net/anime/ani-10/ani989.cur), auto !important;
         font-family: sans-serif;
         color: blueviolet;
     }
     
     h1 {
-        cursor: url(http://cur.cursors-4u.net/anime/ani-10/ani989.cur), auto !important;
         background-color: lawngreen;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         color: blueviolet;
